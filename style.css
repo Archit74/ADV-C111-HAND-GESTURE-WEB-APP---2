@@ -1,0 +1,16 @@
+body{
+    font-family: 'Sansita Swashed', cursive;
+    background-color: #a87732;
+}
+
+.header{
+   letter-spacing: 10px;
+   border-radius: 10px;
+   background-color: aqua;
+   width: 100%;
+   height: 100px;
+  }
+  .header_2
+  {
+    letter-spacing: 10px;
+  }
